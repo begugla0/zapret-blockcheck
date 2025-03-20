@@ -39,6 +39,7 @@
 ## Донат проекту
 
 https://www.donationalerts.com/r/beguglastudios
+
 https://pay.cloudtips.ru/p/fcd37bcf
 
 ## Хотите сменить полностью IP?
