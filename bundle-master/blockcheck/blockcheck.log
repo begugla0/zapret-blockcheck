@@ -1,0 +1,18 @@
+* checking system
+CYGWIN detected
+firewall type is windivert
+* checking already running DPI bypass processes
+!!! WARNING. some dpi bypass processes already running !!!
+!!! WARNING. blockcheck requires all DPI bypass methods disabled !!!
+!!! WARNING. pls stop all dpi bypass instances that may interfere with blockcheck !!!
+* checking prerequisites
+* checking DNS
+system DNS is working
+comparing system resolver to public DNS : 8.8.8.8
+pornhub.com : OK
+ntc.party : OK
+rutracker.org : OK
+www.torproject.org : OK
+bbc.com : OK
+checking resolved IP uniqueness for : pornhub.com ntc.party rutracker.org www.torproject.org bbc.com
+censor's DNS can return equal result for multiple blocked domains.
