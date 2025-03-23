@@ -36,11 +36,6 @@
 
 Если у вас возникли вопросы или проблемы, пожалуйста, создайте [issue](https://github.com/begugla0/zapret-blockcheck/issues) на GitHub.
 
-## Донат проекту
-
-https://www.donationalerts.com/r/beguglastudios
-
-https://pay.cloudtips.ru/p/fcd37bcf
 
 ## Хотите сменить полностью IP?
 
