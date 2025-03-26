@@ -45,4 +45,4 @@
 
 ## Хотите сменить полностью IP?
 
-Изпользуйте нашего бота https://t.me/vlessgeneratorbot для создания бесплатных конфигураций Vless, Outline, OpenVPN over Cloak, WireGuard, AmneziaWG!
+Изпользуйте нашего бота [https://t.me/vlessgeneratorbot](https://t.me/vlessgeneratorbot) для создания бесплатных конфигураций Vless, Outline, OpenVPN over Cloak, WireGuard, AmneziaWG!
