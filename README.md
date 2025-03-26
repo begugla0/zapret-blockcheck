@@ -9,7 +9,7 @@
 
 ### Скачивание
 
-Скачайте архив по ссылке: https://github.com/begugla0/zapret-blockcheck/archive/refs/tags/v1.zip
+Скачайте архив по ссылке: [https://github.com/begugla0/zapret-blockcheck/archive/refs/tags/v1.zip](https://github.com/begugla0/zapret-blockcheck/archive/refs/tags/v1.zip)
 
 ### Обычное использование
 
@@ -26,7 +26,7 @@
 
 Если стандартные стратегии не подошли, выполните следующие шаги для запуска `blockcheck`:
 
-1. Скачайте Java версии 17.0.10 по [этой ссылке](https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.exe). 
+1. Скачайте Java версии 17.0.10 по [https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.exe](https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.exe). 
    - Чтобы убедиться, что версия установлена правильно, откройте командную строку и введите `java -version`. Вы должны увидеть следующий вывод:
      ```
      java version "17.0.10" 2024-01-16 LTS
